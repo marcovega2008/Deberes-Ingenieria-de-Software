@@ -1,21 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package sumar;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author David
- */
 public class sumaTest {
-    /**
-     * Test of sumar method, of class suma.
-     */
+   
     @Test
     public void testSumar() {        
         int a = 2;
